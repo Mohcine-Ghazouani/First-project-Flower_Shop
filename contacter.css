@@ -1,0 +1,53 @@
+
+.fieldset{
+    display: flex;
+    align-content:center;
+    
+    
+}
+#form{
+    color: white;
+    background-color:plum;
+    width: 100%;
+    text-align: center;
+    border: none;
+    height: 50px;
+    border-radius: 8px;
+}
+fieldset #input{
+    border-radius: 8px;
+    font-size: x-large;
+    width: 100%;
+    border-color: plum;
+
+    
+}
+table{
+    width: 100%;
+}
+
+#p{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    
+    
+}
+.info{
+   flex: 50%;
+    
+}
+.inputs{
+    flex: 50%;
+    
+}
+
+#titre{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: palevioletred;
+}
+fieldset{
+    border-radius: 8px;
+    border-color: plum;
+}
